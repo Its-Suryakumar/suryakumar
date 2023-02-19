@@ -12,9 +12,8 @@ const portfolio = () => {
           <div className='portfolio__item-image'>
 
           </div>
-          <h3>This is a portfolio item title</h3>
-          <a href='https://github.com/Its-Suryakumar' className='btn' target='_blank'>GitHub</a>
-          <a href='https://github.com/Its-Suryakumar' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <h3>VIT GPA Calculator</h3>
+          <a href='https://github.com/Its-Suryakumar' className='btn btn-primary' target='_blank'>GitHub</a>
         </article>
       </div>
     </section>
