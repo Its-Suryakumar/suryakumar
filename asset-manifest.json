@@ -1,7 +1,7 @@
 {
   "main.css": "/suryakumar/static/css/main.f5b5aa05.chunk.css",
-  "main.js": "/suryakumar/static/js/main.58f9f59f.chunk.js",
-  "main.js.map": "/suryakumar/static/js/main.58f9f59f.chunk.js.map",
+  "main.js": "/suryakumar/static/js/main.cd8dd6d4.chunk.js",
+  "main.js.map": "/suryakumar/static/js/main.cd8dd6d4.chunk.js.map",
   "static/js/1.f7a2aa98.chunk.js": "/suryakumar/static/js/1.f7a2aa98.chunk.js",
   "static/js/1.f7a2aa98.chunk.js.map": "/suryakumar/static/js/1.f7a2aa98.chunk.js.map",
   "runtime~main.js": "/suryakumar/static/js/runtime~main.601008d4.js",
@@ -12,6 +12,6 @@
   "static/media/portfolio1.jpg": "/suryakumar/static/media/portfolio1.8b2d9f70.jpg",
   "static/css/main.f5b5aa05.chunk.css.map": "/suryakumar/static/css/main.f5b5aa05.chunk.css.map",
   "index.html": "/suryakumar/index.html",
-  "precache-manifest.b36224057e7c06ea534148d162ed73db.js": "/suryakumar/precache-manifest.b36224057e7c06ea534148d162ed73db.js",
+  "precache-manifest.bb133e7aed8fe1b95fc400672c761c42.js": "/suryakumar/precache-manifest.bb133e7aed8fe1b95fc400672c761c42.js",
   "service-worker.js": "/suryakumar/service-worker.js"
 }
