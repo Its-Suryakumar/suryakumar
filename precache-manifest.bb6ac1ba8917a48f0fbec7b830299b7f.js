@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a565be8246f29e50378b",
-    "url": "/suryakumar/static/css/main.af715143.chunk.css"
+    "revision": "eb951e3f2565c632d357",
+    "url": "/suryakumar/static/css/main.cd3a15e6.chunk.css"
   },
   {
-    "revision": "a565be8246f29e50378b",
-    "url": "/suryakumar/static/js/main.a565be82.chunk.js"
+    "revision": "eb951e3f2565c632d357",
+    "url": "/suryakumar/static/js/main.eb951e3f.chunk.js"
   },
   {
     "revision": "4e7cadd5f26b0d84cac8",
@@ -32,15 +32,15 @@ self.__precacheManifest = [
     "url": "/suryakumar/static/media/portfolio1.8b2d9f70.jpg"
   },
   {
-    "revision": "3c5128ea9d1c1ec46715c0e3ba11a55d",
-    "url": "/suryakumar/static/media/portfolio2.3c5128ea.png"
+    "revision": "1aa5c81871aa88730f5c6496cad6a051",
+    "url": "/suryakumar/static/media/portfolio2.1aa5c818.png"
   },
   {
-    "revision": "03f682ebac821a7ac4f86f04993db061",
-    "url": "/suryakumar/static/media/portfolio3.03f682eb.jpg"
+    "revision": "664ecd331496ebd437e1e25254c99f9c",
+    "url": "/suryakumar/static/media/portfolio3.664ecd33.jpg"
   },
   {
-    "revision": "81dde7159794d1e83d3474cb27698e5a",
+    "revision": "e1ef379395fcfbb32d19eba63a8518ea",
     "url": "/suryakumar/index.html"
   }
 ];

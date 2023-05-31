@@ -1,7 +1,7 @@
 {
-  "main.css": "/suryakumar/static/css/main.af715143.chunk.css",
-  "main.js": "/suryakumar/static/js/main.a565be82.chunk.js",
-  "main.js.map": "/suryakumar/static/js/main.a565be82.chunk.js.map",
+  "main.css": "/suryakumar/static/css/main.cd3a15e6.chunk.css",
+  "main.js": "/suryakumar/static/js/main.eb951e3f.chunk.js",
+  "main.js.map": "/suryakumar/static/js/main.eb951e3f.chunk.js.map",
   "static/js/1.4e7cadd5.chunk.js": "/suryakumar/static/js/1.4e7cadd5.chunk.js",
   "static/js/1.4e7cadd5.chunk.js.map": "/suryakumar/static/js/1.4e7cadd5.chunk.js.map",
   "runtime~main.js": "/suryakumar/static/js/runtime~main.601008d4.js",
@@ -10,10 +10,10 @@
   "static/media/me.png": "/suryakumar/static/media/me.4bc646b0.png",
   "static/media/me-about.jpeg": "/suryakumar/static/media/me-about.d59d737d.jpeg",
   "static/media/portfolio1.jpg": "/suryakumar/static/media/portfolio1.8b2d9f70.jpg",
-  "static/media/portfolio2.png": "/suryakumar/static/media/portfolio2.3c5128ea.png",
-  "static/media/portfolio3.jpg": "/suryakumar/static/media/portfolio3.03f682eb.jpg",
-  "static/css/main.af715143.chunk.css.map": "/suryakumar/static/css/main.af715143.chunk.css.map",
+  "static/media/portfolio2.png": "/suryakumar/static/media/portfolio2.1aa5c818.png",
+  "static/media/portfolio3.jpg": "/suryakumar/static/media/portfolio3.664ecd33.jpg",
+  "static/css/main.cd3a15e6.chunk.css.map": "/suryakumar/static/css/main.cd3a15e6.chunk.css.map",
   "index.html": "/suryakumar/index.html",
-  "precache-manifest.80a0b5264ad97b18fd31e89ae923e4ca.js": "/suryakumar/precache-manifest.80a0b5264ad97b18fd31e89ae923e4ca.js",
+  "precache-manifest.bb6ac1ba8917a48f0fbec7b830299b7f.js": "/suryakumar/precache-manifest.bb6ac1ba8917a48f0fbec7b830299b7f.js",
   "service-worker.js": "/suryakumar/service-worker.js"
 }
