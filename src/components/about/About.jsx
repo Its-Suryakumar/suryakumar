@@ -32,7 +32,7 @@ const About = () => {
               <article className='about__card'>
                   <FaChalkboardTeacher className='about__icon'/>
                   <h5>Academics</h5>
-                  <small>Current CGPA  8.68<br/>(4th Semester)</small>
+                  <small>Current CGPA  8.76<br/>(5th Semester)</small>
               </article>
             </div>
             <p>
