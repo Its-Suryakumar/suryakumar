@@ -34,8 +34,8 @@ const Contact = () => {
           <article className='contact__option'>
             <AiOutlineInstagram className='contact__option-icon'/>
             <h4>Instagram</h4>
-            <h5>_surya.here</h5>
-            <a href='https://www.instagram.com/_surya.here/' target='_blank'>Follow</a>
+            <h5>suryakumar.exe</h5>
+            <a href='https://www.instagram.com/suryakumar.exe/' target='_blank'>Follow</a>
           </article>
           <article className='contact__option'>
             <BsLinkedin className='contact__option-icon'/>
