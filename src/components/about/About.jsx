@@ -22,7 +22,7 @@ const About = () => {
               <article className='about__card'>
                   <FaAward className='about__icon'/>
                   <h5>Experience</h5>
-                  <small>Ex-Intern @ Aerobiosys Innovations<br/>Open to Work</small>
+                  <small>Ex-Intern @ Aerobiosys Innovations</small>
               </article>
               <article className='about__card'>
                   <BiCodeAlt className='about__icon'/>
